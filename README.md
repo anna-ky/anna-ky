@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anna-ky
+- 👋 Hi, I’m @anna-ky!!
 - 👀 I’m interested in coding! Was that given? 
 - 🌱 I’m currently learning python! Reviewing MS SQL. 
 - 💞️ I’m looking to collaborate on projects! 
